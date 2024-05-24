@@ -30,7 +30,3 @@ Vision to Blind offers opportunities for customization and extensibility. Users 
 
 These features collectively contribute to making Vision to Blind a powerful tool for enhancing the independence and integration of visually impaired individuals into society.
 
-## Installation
-
-1. Clone the repository:
-
